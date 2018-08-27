@@ -1,5 +1,5 @@
 # hello-world
-This is my first Github repository for hell-world
+This is my first Github repository for hello-world
 
 var my_name = 'Nathan Kielsky'
 var my_dob = 'October 30, 1992'

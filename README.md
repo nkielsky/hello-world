@@ -1,10 +1,5 @@
 # hello-world
-This is my first Github repository for hello-world
 
-var my_name = 'Nathan Kielsky'
-var my_dob = 'October 30, 1992'
-var my_fav_color = 'Red'
+Python WEB API Built from guide on "How to write a Python web framework. Part I.":
 
-echo $my_name
-echo my_dob
-echo my_fav_color
+http://rahmonov.me/posts/write-python-framework-part-one/
